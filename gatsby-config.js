@@ -27,13 +27,13 @@ module.exports = {
             slug: `/blog`,
           },
           {
-            title: `About`,
-            slug: `/about`,
+            title: `Tesseract`,
+            slug: `/tesseract`,
           },
         ],
         externalLinks: [
           {
-            name: `Twitter`,
+            name: `Discord`,
             url: `https://twitter.com/lekoarts_de`,
           },
           {
