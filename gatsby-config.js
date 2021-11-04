@@ -8,13 +8,13 @@ module.exports = {
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-minimal-blog/gatsby-config.js
     siteTitle: `Inverno Rosso`,
-    siteTitleAlt: `Minimal Blog - Gatsby Theme`,
-    siteHeadline: `Minimal Blog - Gatsby Theme from @lekoarts`,
+    siteTitleAlt: `Inverno Rosso`,
+    siteHeadline: `Inverno Rosso`,
     siteUrl: `https://minimal-blog.lekoarts.de`,
     siteDescription: `Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting.`,
-    siteLanguage: `en`,
+    siteLanguage: `it`,
     siteImage: `/banner.jpg`,
-    author: `@lekoarts_de`,
+    author: `master`,
   },
   plugins: [
     {
